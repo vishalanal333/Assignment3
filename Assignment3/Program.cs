@@ -36,7 +36,7 @@ namespace Assignment3
                     int check = s2 - s1;
                     if (s1 < s2)
                     {
-                        if (check==4 ||check== 40 || check==90 || check==400 || check==900)
+                        if (check==4 ||check ==9||check== 40 || check==90 || check==400 || check==900)
                         {
                             ans += s2 - s1;
                             i++;
